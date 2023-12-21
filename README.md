@@ -26,7 +26,7 @@ Before you start, you need to have Node.js and Git installed on your system. If 
    - Navigate into the cloned directory by running `cd mern-be`.
 
 2. **Install Dependencies**
-   - Inside the mongo-react-example directory, run `npm install` to install all the necessary dependencies.
+   - Inside the mern-be directory, run `npm install` to install all the necessary dependencies.
 
 ## Running the Server
 - Run `npm start` to start the server.
