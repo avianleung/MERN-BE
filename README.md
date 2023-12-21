@@ -1,4 +1,4 @@
-# README for mongo-react-example
+# README for mern-be
 
 ## Introduction
 Welcome to the mern-be app! This app is a basic example of integrating MongoDB with a React application, using Express.js as the server framework.
