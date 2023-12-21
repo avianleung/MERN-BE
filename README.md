@@ -22,7 +22,7 @@ Before you start, you need to have Node.js and Git installed on your system. If 
 1. **Clone the Repository**
    - Open a terminal.
    - Navigate into the directory you want to download the codebase by running `cd <path to your directory>`.
-   - Run `git clone https://github.com/avianleung/mern-be.git` to clone the repository.
+   - Run `git clone https://github.com/avianleung/MERN-BE.git` to clone the repository.
    - Navigate into the cloned directory by running `cd mern-be`.
 
 2. **Install Dependencies**
